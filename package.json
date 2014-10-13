@@ -1,0 +1,22 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "main": "server.js",
+  "private": true,
+  "author": {
+    "name": "Chris Langton",
+    "email": "chris@codewiz.biz",
+    "url": "http://nodewiz.biz/"
+  },
+  "dependencies": {
+    "cloneextend": "*",
+    "cors": "^2.4.2",
+    "express": ">= 3.3.x",
+    "memoizee": "0.2.6",
+    "mysql": ">= 0.2.x"
+  },
+  "engines": {
+    "node": ">= 0.10",
+    "npm": ">= 1.2"
+  }
+}
